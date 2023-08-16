@@ -1,3 +1,3 @@
-module sdk
+module zsdk
 
 go 1.20
