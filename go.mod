@@ -1,3 +1,3 @@
-module github.com/Taylorzhao/z-sdk
+module sdk
 
 go 1.20
